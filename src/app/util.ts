@@ -1,4 +1,4 @@
-import { Weapons } from '../assets/items';
+import { Weapons } from './items';
 import { Type } from './interfaces/type';
 
 export type Option<T> = {

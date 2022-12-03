@@ -1,5 +1,5 @@
 import { Component, VERSION } from '@angular/core';
-import { Weapons } from '../assets/items';
+import { Weapons } from './items';
 import { IBoss } from './interfaces/boss';
 import { Element } from './interfaces/element';
 import { IWeapon } from './interfaces/item';
